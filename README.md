@@ -1,1 +1,2 @@
-# c35-ballsync-CA
+# C35_SynchronousBallMoment_StudentActivity
+Student Activity
